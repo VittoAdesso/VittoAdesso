@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adessovittorio8@gmail.com**
 
-- ⚡ Me **I love burguers ! 😍 **
+# ⚡ I love burguers ! 😍
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
