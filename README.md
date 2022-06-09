@@ -30,7 +30,7 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
    
 ---
 
-## ✅ Contact Me 
+## 🔗 Contact Me 🔗
 
 <div align="center">
   <a href="mailto:adessovittorio8@gmail.com">
