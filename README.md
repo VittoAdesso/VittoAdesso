@@ -1,4 +1,4 @@
-## 
+## Welcome aboard 👩‍🚀
 I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 🏗️, with more than 10 years of experience managing different types of projects in various branches. 🦾🌱
 
 <div align="center">
@@ -24,9 +24,11 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   
 
- 
 --- 
+
+   # 👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
    
+---
 
 ## ✅ Contact Me 
 
