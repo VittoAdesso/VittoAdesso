@@ -1,6 +1,18 @@
+## 
+I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 🏗️, with more than 10 years of experience managing different types of projects in various branches. 🦾🌱
+
+<div align="center">
+<img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
+</div>
+
+---
+
+
 <h3 align="left"> Code with 👨‍💻 </h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoadesso&show_icons=true&locale=en&layout=compact" alt="vittoadesso" /></p>
+
+## & also used 👀 : 
 
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
@@ -14,18 +26,25 @@
 
  
 --- 
+   
 
 ## ✅ Contact Me 
 
-<p align="center">
+<div align="center">
   <a href="mailto:adessovittorio8@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vittorioAdesso/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p> 
+</div> 
 
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<div align="center">
+<img alt="thanks" src="https://user-images.githubusercontent.com/78548192/172897165-136a03ee-712c-4b0d-9638-40f0c43b5135.gif"/>
+</div>
 
 
 
