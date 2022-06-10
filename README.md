@@ -2,15 +2,16 @@
 I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 🏗️, with more than 10 years of experience managing different types of projects in various branches. 🦾🌱
 
 <div align="center">
-<img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
+   <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
 </div>
 
 ---
 
-
 <h3 align="left"> Code with 👨‍💻 </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoadesso&show_icons=true&locale=en&layout=compact" alt="vittoadesso" /></p>
+<div  align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoadesso&show_icons=true&locale=en&layout=compact" alt="vittoadesso" />
+</div>
 
 ## & also used 👀 : 
 
@@ -34,10 +35,10 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 
 <div align="center">
   <a href="mailto:adessovittorio8@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vittorioAdesso/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div> 
 
@@ -45,7 +46,7 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <div align="center">
-<img alt="thanks" src="https://user-images.githubusercontent.com/78548192/172897165-136a03ee-712c-4b0d-9638-40f0c43b5135.gif"/>
+   <img alt="thanks" src="https://user-images.githubusercontent.com/78548192/172897165-136a03ee-712c-4b0d-9638-40f0c43b5135.gif"/>
 </div>
 
  
