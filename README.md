@@ -10,7 +10,7 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 <h3 align="left"> Code with 👨‍💻 </h3>
 
 <div  align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoadesso&show_icons=true&locale=en&layout=compact" alt="vittoadesso" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoadesso&show_icons=true&locale=en&layout=compact&theme=merko" alt="vittoadesso" />
 </div>
 
 ## & also used 👀 : 
@@ -51,5 +51,3 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 <div align="center">
    <img alt="thanks" src="https://user-images.githubusercontent.com/78548192/172897165-136a03ee-712c-4b0d-9638-40f0c43b5135.gif"/>
 </div>
-
- 
