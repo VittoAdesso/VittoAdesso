@@ -9,9 +9,8 @@ I'm Vittorio! As you know 😁 Fullstack developer 👨‍💻 & civil engineer 
 
 <h3 align="left"> Code with 👨‍💻 </h3>
 
-<div  align="center">
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoadesso&layout=compact&theme=merko)](https://github.com/vittoadesso/github-readme-stats)
+<div  align="center">   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoadesso&layout=compact&theme=merko)](https://github.com/vittoadesso/github-readme-stats)
    
 </div>
 
