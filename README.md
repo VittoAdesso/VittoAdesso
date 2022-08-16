@@ -18,6 +18,8 @@ I'm Vittorio! As you know 😁 Full stack developer 👨‍💻 & civil engineer
 
 ## & also used 👀 : 
 
+<div align="center"> 
+            
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.rawgit.com/standard/standard/master/docs/logos/npm.png" alt="npm" width="40" height="20"/> </a> 
@@ -30,7 +32,7 @@ I'm Vittorio! As you know 😁 Full stack developer 👨‍💻 & civil engineer
 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postMan" width="40" height="40"/> </a> <a href=" https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.suNy2e6DY-dAg08IGK4K9AHaHa?pid=ImgDet&rs=1" alt="luciChart" width="40" height="40"/> </a>   
   
-   
+</div>
 --- 
 <h1 align="center">
    # 👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
