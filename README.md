@@ -37,7 +37,6 @@ I'm Vittorio! As you know 😁 Full stack developer 👨‍💻 & civil engineer
    # 👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
 </h1>
 
----
 
 ## 🔗 Contact & connect with Me 🔗
 
