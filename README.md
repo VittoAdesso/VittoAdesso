@@ -1,5 +1,10 @@
 ## Welcome aboard 👩‍🚀
-I'm Vittorio! As you know 😁 Full stack developer 👨‍💻 & civil engineer 🏗️ - Project Manager, with more than 12 years of experience managing different types of projects in various branches. 🦾🌱
+
+      I am a Full Stack Developer in the process of professional TRANSITION 💻🏋️
+
+     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, consulting, retail & hostelry sectors.
+
+     The desire to discover what is behind every technological tool that we currently have at our disposal led me enter to the programming world. 👀📎
 
 <div align="center">
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
