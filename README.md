@@ -39,7 +39,7 @@
 
 
 <h1 align="center">
-   # 👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
+    👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
 </h1>
 
 --- 
