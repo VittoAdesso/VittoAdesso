@@ -1,8 +1,8 @@
 ## Welcome aboard 👩‍🚀
 
-      I am a Full Stack Developer in the process of professional TRANSITION 💻🏋️
+      I am a Full Stack Developer.
 
-     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, consulting, retail & hostelry sectors.
+     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, consulting, retail & hostelery sectors.
 
      The desire to discover what is behind every technological tool that we currently have at our disposal led me enter to the programming world. 👀📎
 
