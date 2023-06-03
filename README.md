@@ -1,7 +1,6 @@
-## Welcome aboard 👩‍🚀
+## Welcome on board 👩‍🚀
 
-     
-     I have around two years of experience been full Stack Developer.
+     I have around two years of experience being full Stack Developer.
      Wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering,
      consulting, retail & hostelery sectors.
 
@@ -12,7 +11,10 @@
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
 </div>
 
- ## Tecnologías:  
+My daily goal is to learn something new and get new skills 
+                         👨‍💻 🏊🏋️‍♀️🚴
+
+ ## Technologies:  
      
 [![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
 </br>
@@ -27,11 +29,7 @@
 </br>  
 [![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 
-<h1 align="center">
-    👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
-</h1>
-
-## 🔗 Contact & connect with Me 🔗
+## Contact & connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vittorio_Adesso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vittoadesso)
 [![Email](https://img.shields.io/badge/Personal-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:adessovittorio8@gmail.com)
 </br>
