@@ -14,7 +14,7 @@
 
  ## Tecnologías:  
      
-[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)
+[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
