@@ -1,6 +1,7 @@
 ## Welcome on board 👩‍🚀
 
      I have around two years of experience being full Stack Developer.
+     
      Wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering,
      consulting, retail & hostelery sectors.
 
@@ -10,9 +11,6 @@
 <div align="center">
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
 </div>
-
-My daily goal is to learn something new and get new skills 
-                         👨‍💻 🏊🏋️‍♀️🚴
 
  ## Technologies:  
      
@@ -28,6 +26,10 @@ My daily goal is to learn something new and get new skills
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>  
 [![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
+
+My daily goal is to learn something new and get new skills                    👨‍💻 🏊🏋️‍♀️🚴
+
+</br>
 
 ## Contact & connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vittorio_Adesso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vittoadesso)
