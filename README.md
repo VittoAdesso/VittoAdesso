@@ -27,12 +27,6 @@
 </br>  
 [![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 
-<h3 align="left"> Training with 👨‍💻 </h3>
-
-<div  align="center">   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittoAdesso&layout=compact&theme=merko)](https://github.com/VittoAdesso/github-readme-stats)
-</div>
-
 <h1 align="center">
     👨‍💻 My daily goal is to learn something new and gain new skills 👨‍💻 🏊🏋️‍♀️🚴
 </h1>
