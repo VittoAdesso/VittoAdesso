@@ -12,7 +12,7 @@
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
 </div>
 
- ## Technologies:  
+ ## Skills
      
 [![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
 </br>
@@ -31,7 +31,7 @@ My daily goal is to learn something new and get new skills                    ðŸ
 
 </br>
 
-## Contact & connect with Me 
+## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vittorio_Adesso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vittoadesso)
 [![Email](https://img.shields.io/badge/Personal-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:adessovittorio8@gmail.com)
 </br>
