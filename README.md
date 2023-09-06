@@ -1,13 +1,11 @@
 ## Welcome on board 👩‍🚀
 
-     I have around two years of experience being full Stack Developer.
-     
-     Wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering,
-     consulting, retail & hostelery sectors.
+     I have been working with Angular, Nodejs, NestJs, Mysql, Azure with Scrum and learning some unit test with Jest.
 
-     The desire to discover what is behind every technological tool that we currently have
-     at our disposal led me enter to the programming world. 👀📎
+    ¡I am constantly soaking up every technological update!
 
+     Also I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, consulting, retail & hostelry sectors.
+ 
 <div align="center">
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
 </div>
