@@ -11,7 +11,6 @@ My daily goal is to learn something new and get new skills                    ðŸ
 </br>
 
 ## Contact 
-[![Email](https://img.shields.io/badge/Personal-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:adessovittorio8@gmail.com)
 </br>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
