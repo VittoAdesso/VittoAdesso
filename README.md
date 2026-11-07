@@ -1,6 +1,6 @@
 ## Welcome on board 👩‍🚀
 
-     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, consulting, retail & hostelry sectors.
+     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, IT, consulting, retail & hostelry sectors.
  
 <div align="center">
    <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
