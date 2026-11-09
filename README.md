@@ -6,10 +6,6 @@
 
 <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=0A66C2&center=true&vCenter=true&width=950&lines=Civil+engineer+leading+AI+%26+Automation;Project+Manager+%C2%B7+Idea+generator+%C2%B7+Builder;Ideas+become+projects%2C+projects+become+results;Power+Platform+%C2%B7+PAD+%C2%B7+UiPath+%C2%B7+BI+%C2%B7+VBA;Claude+%C2%B7+ChatGPT+%C2%B7+Gemini+%C2%B7+Copilot+%C2%B7+Local+LLMs;AI+agents+designed+for+real+business+processes;Development+projects%2C+from+idea+to+operation;Center+of+Excellence%3A+standards%2C+governance%2C+continuity;Building+fast%2C+governing+well;Every+day%2C+a+new+idea+in+motion" />
 
-<br/>
-
-<img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
-
 </div>
 
 ---
