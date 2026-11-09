@@ -1,20 +1,38 @@
-## Welcome on board 👩‍🚀
-
-     I have a wide professional experience of more than 12 years, as Project Manager and responsible of departments in multinational companies such as engineering, IT, consulting, retail & hostelry sectors.
- 
 <div align="center">
-   <img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
+
+# Vittorio Adesso
+
+### Civil Engineer · Project Manager · Head of AI & Automation
+
+<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=0A66C2&center=true&vCenter=true&width=950&lines=Civil+engineer+leading+AI+%26+Automation;Project+Manager+%C2%B7+Idea+generator+%C2%B7+Builder;Ideas+become+projects%2C+projects+become+results;Power+Platform+%C2%B7+PAD+%C2%B7+UiPath+%C2%B7+BI+%C2%B7+VBA;Claude+%C2%B7+ChatGPT+%C2%B7+Gemini+%C2%B7+Copilot+%C2%B7+Local+LLMs;AI+agents+designed+for+real+business+processes;Development+projects%2C+from+idea+to+operation;Center+of+Excellence%3A+standards%2C+governance%2C+continuity;Building+fast%2C+governing+well;Every+day%2C+a+new+idea+in+motion" />
+
+<br/>
+
+<img alt="smileHulk" src="https://user-images.githubusercontent.com/78548192/172897501-615a8143-93e2-46ce-9353-c7b9e6f3e7bd.gif"/>
+
 </div>
 
-My daily goal is to learn something new and get new skills                    👨‍💻 🏊🏋️‍♀️🚴
+---
 
-</br>
+## About me
 
-## Contact 
-</br>
+Civil engineer who moved into technology and now leads an AI & Automation team.
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+Engineering gave me the discipline to plan and deliver complex work. AI and automation let me multiply it.
+
+**12+ years** as Project Manager and head of departments in multinational companies across engineering, IT, consulting, retail and hospitality.
+
+Today I **lead the AI & Automation team and its Center of Excellence**. I generate ideas every day, decide which ones are worth building, and take them from concept to a solution running in production.
+
+---
 
 <div align="center">
-   <img alt="thanks" src="https://user-images.githubusercontent.com/78548192/172897165-136a03ee-712c-4b0d-9638-40f0c43b5135.gif"/>
+
+> Gartner forecasts that agentic AI will make a growing share of day-to-day work decisions autonomously.
+> It also warns that many agentic AI projects will be canceled because of rising costs, unclear value or weak risk controls.
+>
+> Gartner ([source](https://www.gartner.com/en/documents/6694634))
+
+**Building fast, governing well.**
+
 </div>
