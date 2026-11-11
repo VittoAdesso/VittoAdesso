@@ -16,7 +16,7 @@ Civil engineer who moved into technology and now leads an AI & Automation team.
 
 Engineering gave me the discipline to plan and deliver complex work. AI and automation let me multiply it.
 
-**12+ years** as Project Manager and head of departments in multinational companies across engineering, IT, consulting, retail and hospitality.
+**14+ years** as Project Manager and head of departments in multinational companies across engineering, IT, consulting, retail and hospitality.
 
 Today I **lead the AI & Automation team and its Center of Excellence**. I generate ideas every day, decide which ones are worth building, and take them from concept to a solution running in production.
 
